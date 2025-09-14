@@ -1,0 +1,17 @@
+# Lean 4 build outputs
+/build/
+/lake-packages/
+/.lake/
+
+# Lean cache files
+*.olean
+*.ilean
+*.trace
+
+# IDE files
+.vscode/settings.json
+
+# OS files
+.DS_Store
+Thumbs.db
+*~

@@ -1,0 +1,5 @@
+-- This module serves as the root of the `Tpil` library.
+-- Import modules here that should be built as part of the library.
+import Tpil.DependentTypeTheory
+import Tpil.PropositionsAndProof
+import Tpil.QuantifiersAndEquality
